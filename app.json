@@ -10,7 +10,9 @@
     "BOT_TOKEN": "8169014867:AAGlZvupoTG702nUQnArBVE7xt5q898mLbI",
     "MONGO_DB_URI": "mongodb+srv://jaydipmore74:xCpTm5OPAfRKYnif@cluster0.5jo18.mongodb.net/?retryWrites=true&w=majority",
     "LOG_CHANNEL": "-1002616784205",
-    "OWNER_ID": "7269382715"
+    "OWNER_ID": "7269382715",
+    "SUPPORT_GROUP": "https://t.me/+Fc07n8pIMsBiNGJl",
+    "BOT_USERNAME": "Instagram_viral_mms_tetrisbot"
   },
   "buildpacks": [
     {
